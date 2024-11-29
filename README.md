@@ -6,7 +6,7 @@
 
 GET:
 
-- https://big-edith-nnnnnn-f1fb37d2.koyeb.app/users
+- https://sufficient-marianna-nnnnnn-e6e8714a.koyeb.app/users
 - https://nest-vercel-ten.vercel.app/users
 
 POST:
@@ -18,7 +18,7 @@ POST:
 }
 ```
 
-- https://big-edith-nnnnnn-f1fb37d2.koyeb.app/users
+- https://sufficient-marianna-nnnnnn-e6e8714a.koyeb.app/users
 - https://nest-vercel-ten.vercel.app/users
 
 ### 部署到 vercel
